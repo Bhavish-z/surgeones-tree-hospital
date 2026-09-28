@@ -1,0 +1,6 @@
+{
+  "name": "Surgeons Tree Hospitals",
+  "description": "Surgeons Tree Hospitals (సర్జెన్స్ ట్రీ హాస్పిటల్స్) in Hyderabad offers 24/7 advanced surgical care, experienced surgeons, and seamless WhatsApp appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

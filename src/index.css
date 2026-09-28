@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', 'Noto Sans Telugu', system-ui, -apple-system, sans-serif;
+    color: #0f172a;
+    background-color: #fafcff;
+  }
+}
+
+.font-telugu {
+  font-family: 'Noto Sans Telugu', sans-serif;
+}
